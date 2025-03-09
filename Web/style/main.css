@@ -1,0 +1,75 @@
+.twitter-menu li {
+    border: none;
+    font-size: 17pt;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-left: -25px;
+}
+
+.twitter-menu li i {
+    width: 35px;
+}
+
+.twitter-menu li a {
+    text-decoration: none;
+    color: black;
+    padding: 10px 10px;
+}
+
+.twitter-menu li a:hover {
+    background-color: #f3f3f3;
+    border-radius: 30px;
+}
+
+.twitter-post li a:hover {
+    background-color: #f3f3f3;
+    border-radius: 30px;
+}
+
+.twitter-post li {
+    border: none;
+    font-size: 17pt;
+}
+
+.twitter-post li a {
+    text-decoration: none;
+    color: black;
+    padding: 10px 10px;
+}
+
+.feeds {
+    border-left: solid 2px #f0f0f0;
+    border-right: solid 2px #f0f0f0;
+}
+
+.icons {
+    margin-left: 10px;
+}
+
+.icons i {
+    margin-right: 10px;
+}
+
+.fonts {
+    margin-left: 22px;
+    margin-top: -15px;
+}
+
+.fonts strong {
+    margin-left: 22px;
+}
+
+#border {
+    border: 4px solid white;
+}
+
+#edit div:hover {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-left: -25px;
+    border: black;
+}
+
+#namaku div {
+    font: bold 100px;
+}
